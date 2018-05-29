@@ -1,4 +1,4 @@
-##模板函数 (functions.php)
+## 模板函数 (functions.php)
 
 ```php
 /*管理员快速登录其他用户账户*/
